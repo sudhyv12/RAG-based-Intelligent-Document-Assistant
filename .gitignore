@@ -1,0 +1,8 @@
+env/
+.env
+.vscode/
+*.db
+vector.db/
+__pycache__/
+.ipynb_checkpoints/
+data/
